@@ -7,6 +7,8 @@ description: |
   "implement X", "add feature", "fix bug", "the tests are failing", "refactor this", "make this work",
   "write tests for", "clean up code", or any request to change or improve a codebase.
   Also trigger for any debugging session, error investigation, or code review request.
+  Includes language-specific references for Python, TypeScript, Go, React, and Next.js,
+  plus documentation best practices (READMEs, ADRs, API docs, changelogs).
 ---
 
 # Software Engineer Skill
@@ -202,12 +204,15 @@ def test_user():
 
 For deep dives on specific languages and frameworks, see:
 
-- `references/python.md` — Python idioms, type hints, async patterns
-- `references/typescript.md` — TypeScript patterns, generics, strict mode
-- `references/react.md` — React hooks, state management, performance
+- `references/python.md` — Python idioms, type hints, async patterns, pytest
+- `references/typescript.md` — TypeScript patterns, generics, strict mode, Vitest
+- `references/golang.md` — Go error handling, interfaces, concurrency, table-driven tests
+- `references/react.md` — React hooks, state management, performance, React Testing Library
+- `references/nextjs.md` — App Router, Server/Client Components, data fetching, Route Handlers
 - `references/testing.md` — Testing patterns by framework (pytest, Jest, Go test, etc.)
+- `references/documentation.md` — Code comments, READMEs, API docs, ADRs, changelogs
 
-These are loaded on demand — read them when working in those contexts.
+These are loaded on demand — read the relevant file(s) when working in those contexts.
 
 ---
 
