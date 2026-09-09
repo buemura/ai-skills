@@ -1,6 +1,6 @@
-# Claude Code Skills
+# AI Skills
 
-A collection of custom [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills) that enhance Claude Code's performance across common software development workflows.
+A collection of custom [AI skills](https://docs.anthropic.com/en/docs/claude-code/skills) that enhance AI performance across common software development workflows.
 
 ## What Are Skills?
 
